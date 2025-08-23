@@ -18,7 +18,7 @@
     "vercel": "19.2.0"
   },
   "devDependencies": {
-    "@aero/eslint-config": "^1.0.1",
+    "@aero/eslint-config": "^1.0.6",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "eslint": "^7.32.0",
