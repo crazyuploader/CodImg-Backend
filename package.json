@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "chrome-aws-lambda": "^3.1.1",
-    "dotenv": "8.6.0",
+    "dotenv": "17.2.3",
     "gists": "2.0.0",
     "js-beautify": "1.15.4",
     "puppeteer-core": "^3.3.0",
