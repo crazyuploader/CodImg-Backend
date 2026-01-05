@@ -14,7 +14,7 @@
     "dotenv": "17.2.3",
     "gists": "2.0.0",
     "js-beautify": "1.15.4",
-    "puppeteer-core": "^3.3.0",
+    "puppeteer-core": "^24.0.0",
     "vercel": "50.1.3"
   },
   "devDependencies": {
@@ -24,6 +24,6 @@
     "eslint": "^9.0.0",
     "esm": "^3.2.25",
     "mocha": "^11.0.0",
-    "puppeteer": "5.5.0"
+    "puppeteer": "24.34.0"
   }
 }
