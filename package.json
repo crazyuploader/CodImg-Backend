@@ -15,7 +15,7 @@
     "gists": "2.0.0",
     "js-beautify": "1.15.4",
     "puppeteer-core": "^24.0.0",
-    "vercel": "53.3.2"
+    "vercel": "53.4.0"
   },
   "devDependencies": {
     "@aero/eslint-config": "^1.0.6",
